@@ -1,0 +1,12 @@
+{
+    "INPUT": [
+        {
+            "class": "File",
+            "location": "example_human_Illumina.pe_1.fastq"
+        },
+        {
+            "class": "File",
+            "location": "example_human_Illumina.pe_2.fastq"
+        }
+    ]
+}
